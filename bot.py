@@ -13,7 +13,7 @@ from contextlib import closing
 
 from collections.abc import Sequence
 
-PREFIX = '!' # Change to prefix desired on your personal server
+
 
 def make_sequence(seq):
     if seq is None:
